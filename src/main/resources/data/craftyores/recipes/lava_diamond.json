@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "/"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lava_bucket"
+        },
+        "/": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "craftyores:lava_diamond"
+    }
+}

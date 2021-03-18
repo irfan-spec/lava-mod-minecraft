@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "craftyores:block/salt_block_top",
+      "side": "craftyores:block/salt_block_side"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "variants": {
+      "axis=x": {
+        "model": "craftyores:block/salt_block",
+        "x": 90,
+        "y": 90
+      },
+      "axis=y": {
+        "model": "craftyores:block/salt_block"
+      },
+      "axis=z": {
+        "model": "craftyores:block/salt_block",
+        "x": 90
+      }
+    }
+  }

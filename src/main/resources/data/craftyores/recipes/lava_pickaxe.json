@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "craftyores:lava_diamond"
+        },
+        "/": {
+            "item": "craftyores:netherite_stick"
+        }
+    },
+    "result": {
+        "item": "craftyores:lava_pickaxe"
+    }
+}

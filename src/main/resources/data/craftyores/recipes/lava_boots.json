@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "craftyores:lava_diamond"
+      }
+    },
+    "result": {
+      "item": "craftyores:lava_boots"
+    }
+  }
